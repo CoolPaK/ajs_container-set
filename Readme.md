@@ -1,6 +1,6 @@
 ## AJS_Container-Set
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/k2yv8cg0u0p9hn91?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-container-set)
 
 ---
 ## Домашнее задание к лекции «Контейнеры»
